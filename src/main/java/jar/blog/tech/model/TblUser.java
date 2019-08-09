@@ -1,7 +1,7 @@
 package jar.blog.tech.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-
+import jar.blog.tech.model.TblTokens;
 import java.util.Date;
 import java.util.List;
 
