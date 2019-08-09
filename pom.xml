@@ -15,16 +15,16 @@
 	<description>Entity Jar for TechBlog</description>
 
 	<repositories>
-		<repository>
-			<id>mvn-repo</id>
-			<url>https://github.com/aysonsteven/SecurityServer.git</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-		</repository>
+<!-- 		<repository> -->
+<!-- 			<id>mvn-repo</id> -->
+<!-- 			<url>https://github.com/aysonsteven/SecurityServer.git</url> -->
+<!-- 			<releases> -->
+<!-- 				<enabled>true</enabled> -->
+<!-- 			</releases> -->
+<!-- 			<snapshots> -->
+<!-- 				<enabled>true</enabled> -->
+<!-- 			</snapshots> -->
+<!-- 		</repository> -->
 	</repositories>
 	<properties>
 		<java.version>11</java.version>
